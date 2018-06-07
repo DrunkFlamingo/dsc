@@ -5927,30 +5927,28 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Chris\\.nuget\\packages\\": {},
+    "C:\\Users\\Kevin Matte\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\Chris\\Desktop\\chris matte working folder\\misc\\lunch\\dsc\\dsc.csproj",
+      "projectUniqueName": "d:\\Active Projects\\C#\\dsc\\dsc.csproj",
       "projectName": "dsc",
-      "projectPath": "c:\\Users\\Chris\\Desktop\\chris matte working folder\\misc\\lunch\\dsc\\dsc.csproj",
-      "packagesPath": "C:\\Users\\Chris\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\Chris\\Desktop\\chris matte working folder\\misc\\lunch\\dsc\\obj\\",
+      "projectPath": "d:\\Active Projects\\C#\\dsc\\dsc.csproj",
+      "packagesPath": "C:\\Users\\Kevin Matte\\.nuget\\packages\\",
+      "outputPath": "d:\\Active Projects\\C#\\dsc\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Chris\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\Kevin Matte\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
