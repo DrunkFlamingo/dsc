@@ -23,7 +23,7 @@ namespace dsc
                 .AddSingleton(_commands)
                 .BuildServiceProvider();
             
-            string botToken = "NDUzNTg1NjczMjYyMjAyOTAx.DfhIkQ.v1BEChiUyAAllfw2Ae48ASfRpsw";
+            string botToken = "";
 
             //event subscriptions
             _client.Log += Log;
